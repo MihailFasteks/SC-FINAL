@@ -1,0 +1,13 @@
+======== MENU ========
+
+Food:
+
+- burger 2.50
+- pancake 2.20
+- sandwich 2.45
+
+Drinks:
+- tea 1.25
+- coffee 1.50
+- sprite 1.15
+- cola 1.25
